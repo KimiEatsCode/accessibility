@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "balanced-match": "^1.0.2",
-    "brace-expansion": "^1.1.11",
+    "brace-expansion": "^1.1.21",
     "cli": "^1.0.1",
     "concat-map": "^0.0.1",
     "console-browserify": "^1.1.0",
